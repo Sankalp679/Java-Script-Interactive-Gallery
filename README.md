@@ -1,2 +1,2 @@
 # Java-Script-Interactive-Gallery
-A project under Course Course of Javascript
+A project under Coursera Course of Javascript
